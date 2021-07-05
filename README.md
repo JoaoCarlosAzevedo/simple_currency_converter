@@ -1,5 +1,5 @@
 ## Simple Currency Converter made with React
-Simple React App to cover some basics of API Call, useEffects, useStates abd Props 
+Simple React App to cover some basics of API Call, useEffects, useStates and Props 
 
 ![Farmers Market Finder Demo](demo/CurrencyConverter.gif)
 
